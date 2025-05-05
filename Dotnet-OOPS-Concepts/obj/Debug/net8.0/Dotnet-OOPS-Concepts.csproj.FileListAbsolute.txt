@@ -1,0 +1,14 @@
+C:\Users\Lata Kumawat\source\repos\Dotnet-OOPS-Concepts\Dotnet-OOPS-Concepts\bin\Debug\net8.0\Dotnet-OOPS-Concepts.exe
+C:\Users\Lata Kumawat\source\repos\Dotnet-OOPS-Concepts\Dotnet-OOPS-Concepts\bin\Debug\net8.0\Dotnet-OOPS-Concepts.deps.json
+C:\Users\Lata Kumawat\source\repos\Dotnet-OOPS-Concepts\Dotnet-OOPS-Concepts\bin\Debug\net8.0\Dotnet-OOPS-Concepts.runtimeconfig.json
+C:\Users\Lata Kumawat\source\repos\Dotnet-OOPS-Concepts\Dotnet-OOPS-Concepts\bin\Debug\net8.0\Dotnet-OOPS-Concepts.dll
+C:\Users\Lata Kumawat\source\repos\Dotnet-OOPS-Concepts\Dotnet-OOPS-Concepts\bin\Debug\net8.0\Dotnet-OOPS-Concepts.pdb
+C:\Users\Lata Kumawat\source\repos\Dotnet-OOPS-Concepts\Dotnet-OOPS-Concepts\obj\Debug\net8.0\Dotnet-OOPS-Concepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lata Kumawat\source\repos\Dotnet-OOPS-Concepts\Dotnet-OOPS-Concepts\obj\Debug\net8.0\Dotnet-OOPS-Concepts.AssemblyInfoInputs.cache
+C:\Users\Lata Kumawat\source\repos\Dotnet-OOPS-Concepts\Dotnet-OOPS-Concepts\obj\Debug\net8.0\Dotnet-OOPS-Concepts.AssemblyInfo.cs
+C:\Users\Lata Kumawat\source\repos\Dotnet-OOPS-Concepts\Dotnet-OOPS-Concepts\obj\Debug\net8.0\Dotnet-OOPS-Concepts.csproj.CoreCompileInputs.cache
+C:\Users\Lata Kumawat\source\repos\Dotnet-OOPS-Concepts\Dotnet-OOPS-Concepts\obj\Debug\net8.0\Dotnet-OOPS-Concepts.dll
+C:\Users\Lata Kumawat\source\repos\Dotnet-OOPS-Concepts\Dotnet-OOPS-Concepts\obj\Debug\net8.0\refint\Dotnet-OOPS-Concepts.dll
+C:\Users\Lata Kumawat\source\repos\Dotnet-OOPS-Concepts\Dotnet-OOPS-Concepts\obj\Debug\net8.0\Dotnet-OOPS-Concepts.pdb
+C:\Users\Lata Kumawat\source\repos\Dotnet-OOPS-Concepts\Dotnet-OOPS-Concepts\obj\Debug\net8.0\Dotnet-OOPS-Concepts.genruntimeconfig.cache
+C:\Users\Lata Kumawat\source\repos\Dotnet-OOPS-Concepts\Dotnet-OOPS-Concepts\obj\Debug\net8.0\ref\Dotnet-OOPS-Concepts.dll
